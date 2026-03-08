@@ -23,6 +23,10 @@ On the predictive side, even after rigorous hyperparameter tuning, the models hi
 
 **Executive Conclusion:** The current dataset lacks critical external variables that heavily influence logistics (e.g., weather conditions, port strikes, mechanical failures). A 67% accuracy proves that the available internal variables alone are insufficient to fully explain supply chain delays.
 
-## 🚀 Next Steps
-* Transition from Machine Learning to Business Intelligence.
-* Develop an operational Power BI dashboard to monitor bottlenecks, visualize delays by shipping mode, and enable data-driven decision-making for the logistics team.
+## 📦 Interactive Dashboard
+
+**[👉 Click here to interact with the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTkwNjc0MGYtMGU5Yy00MWRmLTliOGYtMTE3Yjg3NDMzMzJjIiwidCI6ImRlNTM3NmEzLTdhOTEtNGM1NS1hOGQ5LTI0YjhkMTVlNWViMSJ9)**
+
+*(If you are viewing this on mobile or without Power BI access, check the static preview below)*
+
+![Supply Chain Dashboard](Ecommerce_Analysis.jpg)

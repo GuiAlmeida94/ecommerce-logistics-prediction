@@ -29,4 +29,4 @@ On the predictive side, even after rigorous hyperparameter tuning, the models hi
 
 *(If you are viewing this on mobile or without Power BI access, check the static preview below)*
 
-![Supply Chain Dashboard](Ecommerce_Analysis.jpg)
+![Supply Chain Dashboard](Ecommerce_Analysis.png)
